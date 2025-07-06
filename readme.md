@@ -1,4 +1,4 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=SpringBoot_React_MySql_CRUD" alt="Visitor badge"/>
+</p><img src="https://komarev.com/ghpvc/?username=RajSDE&label=Visitors&color=0e75b6&style=flat" alt="RajSDE" />
 
 # <p align="center">Project Preview</p>
 ## Screenshots
